@@ -46,6 +46,7 @@ app.get('/',function(req,res){
         });
     })
 });
+//now here we have add the serve to the database
 app.listen(port,function(err){
     if(err)
     {
