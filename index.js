@@ -1,3 +1,4 @@
+const db=require('./config/mongoose.js');
 const express=require('express');//step1
 const port=8080;//step2
 const path=require('path');
