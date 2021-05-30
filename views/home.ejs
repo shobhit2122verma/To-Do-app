@@ -35,7 +35,9 @@
         <div class="display-task">
             <% for(let i of tasklist){%>
                 <div class="tasks">
-                    <p><%= i %></p>
+                    <p><%= i.task %></p>
+                    <p><%= i.category %></p>
+                    <p><%= i.duedate %></p>
                 </div>
                 <div class="delete-task">
                     <a href="/deletetask/?Task=<%=i%>">
