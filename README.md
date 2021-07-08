@@ -1,7 +1,6 @@
 # To-Do List App
 
 ![To do list](https://user-images.githubusercontent.com/44787115/124993117-89022200-e061-11eb-9b0c-1c8b97a25830.gif)
-![to do image](https://user-images.githubusercontent.com/44787115/124993133-8dc6d600-e061-11eb-9983-33f49ff22dbf.png)
 
 
 ---
